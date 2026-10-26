@@ -1,6 +1,6 @@
-# 📩 Spam vs Ham Email Classifier
+# Spam vs Ham Email Classifier
 
-A simple beginner-friendly Machine Learning project that classifies emails as **Spam** or **Ham** (not spam).
+A simple  Machine Learning project that classifies emails as **Spam** or **Ham** (not spam).
 
 ## What this project does
 
@@ -13,7 +13,7 @@ A simple beginner-friendly Machine Learning project that classifies emails as **
 
 ## Files
 
-- `Spam_Ham_Simple_Section.ipynb` — step-by-step notebook
+- `Spam_Email Classification .ipynb` — step-by-step notebook
 - `emails.csv` — labeled dataset (`text`, `spam`)
 - `spam_detector.joblib` — saved model pipeline (created when the notebook runs)
 
